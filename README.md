@@ -5,5 +5,5 @@ This respository holds my programming projects done during the period of stanCod
 Watch the example videos of each programs : *[DEMO VIDEOS!] https://drive.google.com/file/d/1y3Mi3RNpH-a5lXaZVvDFWRkMl6iIQafA/view?usp=sharing
 
 ## Progect Source Codes:
-* [Boggle_Game_Solver]
+* [Boggle_Game_Solver] (https://github.com/SIANG-LING/MystanCodeProjects/tree/main/boggle_game_solver_1)
   * recursion functions   
